@@ -9,6 +9,7 @@ spec:
   source:
     repoURL: https://github.com/ishaer2k2/MyFirstConfigRepo.git
     targetRevision: HEAD
+    path: dev
   destination: 
     server: https://kubernetes.default.svc
     namespace: hello-world
