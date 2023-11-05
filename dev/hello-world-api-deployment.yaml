@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: hello-world-api
-          image: ishaer2k2/hello-world:v1     
+          image: ishaer2k2/hello-world:v2     
           ports:
             - containerPort: 80
 ---
